@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AmaniBaniOraba/quiz-app/static/css/main.668db7bd.css",
+    "main.js": "/AmaniBaniOraba/quiz-app/static/js/main.b5d5ae54.js",
+    "static/js/787.9e90ff23.chunk.js": "/AmaniBaniOraba/quiz-app/static/js/787.9e90ff23.chunk.js",
+    "index.html": "/AmaniBaniOraba/quiz-app/index.html",
+    "main.668db7bd.css.map": "/AmaniBaniOraba/quiz-app/static/css/main.668db7bd.css.map",
+    "main.b5d5ae54.js.map": "/AmaniBaniOraba/quiz-app/static/js/main.b5d5ae54.js.map",
+    "787.9e90ff23.chunk.js.map": "/AmaniBaniOraba/quiz-app/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668db7bd.css",
+    "static/js/main.b5d5ae54.js"
+  ]
+}
